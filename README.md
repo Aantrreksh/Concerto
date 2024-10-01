@@ -149,3 +149,6 @@ Copyright 2018-2019 Clause, Inc. All trademarks are the property of their respec
 
 [apache]: https://github.com/accordproject/concerto/blob/master/LICENSE
 [creativecommons]: http://creativecommons.org/licenses/by/4.0/
+
+## Designed & Created By - Aantrreksh Singh
+3
